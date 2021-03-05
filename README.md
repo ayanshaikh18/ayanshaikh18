@@ -22,7 +22,7 @@ I'm pursuing B Tech in Computer engineering from Dharmsinh Desai University,Nadi
 
 # Statistics #
 
-![Jwalit's github stats](https://github-readme-stats.vercel.app/api?username=ayanshaikh18&show_icons=true&theme=tokyonight)
+![Ayan's github stats](https://github-readme-stats.vercel.app/api?username=ayanshaikh18&show_icons=true&theme=tokyonight)
 
 # Most Used Language #
 
