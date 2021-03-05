@@ -1,6 +1,6 @@
 # Hello, I am Mahammadayan🎓‍💻
 
-I'm pursuing B Tech in Computer engineering from Dharmsinh Desai University,Nadiad. I am exploring different web development technologies like dotnet, angular, nodejs, express etc. I am also doing competitive coding on codechef regularly. 
+I'm pursuing B Tech in Computer engineering from Dharmsinh Desai University,Nadiad. My main interests are web development & competitive programming.
 ---
       
 ## Skills
