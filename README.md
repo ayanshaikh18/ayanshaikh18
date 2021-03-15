@@ -5,18 +5,18 @@ I'm pursuing B Tech in Computer engineering from Dharmsinh Desai University,Nadi
       
 ## Skills
 
-<img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> 
-<img title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> 
-<img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
-<img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />
-<img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/>
-<img title="PHP"  height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/>
-<img title="nodejs" height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/>
-<img title="expressjs" height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
-<img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/>
-<img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-<img title="git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
-<img title="linux" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/>
+<code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
+<code> <img title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> <code>
+<code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
+<code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
+<code> <img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
+<code> <img title="PHP"  height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/></code>
+<code> <img title="nodejs" height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/></code>
+<code> <img title="expressjs" height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/></code>
+<code> <img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></code>
+<code> <img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code> <img title="git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
+<code> <img title="linux" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
   
 ---
 
